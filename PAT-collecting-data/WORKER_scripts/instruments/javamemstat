@@ -31,7 +31,7 @@ CMD=$3
 
 function run()
 {
-	/usr/bin/pidstat -r -G java $SAMPLING_INTERVAL | awk -v host=$(hostname) '(!/^$/){now=strftime("%s ");{print "HostName","TimeStamp", $0}}; fflush()' > $OUTDIR/javamemstat &
+	/usr/bin/pidstat -r -G java $SAMPLING_INTERVAL | awk -v host=$(hostname) '(!/^$/){now=strftime("%s ");{print now}}; fflush()' > $OUTDIR/javamemstat &
 }
 
 case $CMD in

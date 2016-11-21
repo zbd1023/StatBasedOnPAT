@@ -1,7 +1,0 @@
-HostName TimeStamp Linux 4.4.0-45-generic (ip-172-31-32-5) 	11/21/2016 	_x86_64_	(2 CPU)
-HostName TimeStamp 03:30:27 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
-HostName TimeStamp 03:30:28 AM     0     26256  10331.68      0.00 3348920  108776   1.33  java
-HostName TimeStamp 03:30:28 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
-HostName TimeStamp 03:30:29 AM     0     26256  13754.00      0.00 3531696  205704   2.52  java
-HostName TimeStamp 03:30:29 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
-HostName TimeStamp 03:30:30 AM     0     26256  11780.00      0.00 3581960  372204   4.55  java
