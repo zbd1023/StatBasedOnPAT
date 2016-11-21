@@ -1,0 +1,4 @@
+HostName TimeStamp   AM pgpgin/s pgpgout/s fault/s majflt/s pgfree/s pgscank/s pgscand/s pgsteal/s %vmeff  AM kbmemfree kbmemused %memused kbbuffers kbcached kbcommit %commit kbactive kbinact kbdirty  AM kbswpfree kbswpused %swpused kbswpcad %swpcad
+ip-172-31-32-5 1479699029   AM 0.00 32.00 17913.00 0.00 10690.00 0.00 0.00 0.00 0.00  AM 3083824 5089964 62.27 258272 3538700 1610696 19.71 3606644 1152832 420  AM 0 0 0.00 0 0.00
+HostName TimeStamp   AM pgpgin/s pgpgout/s fault/s majflt/s pgfree/s pgscank/s pgscand/s pgsteal/s %vmeff  AM kbmemfree kbmemused %memused kbbuffers kbcached kbcommit %commit kbactive kbinact kbdirty  AM kbswpfree kbswpused %swpused kbswpcad %swpcad
+ip-172-31-32-5 1479699030   AM 0.00 0.00 15392.00 0.00 8929.00 0.00 0.00 0.00 0.00  AM 2985820 5187968 63.47 258272 3538712 1697916 20.77 3706044 1152828 432  AM 0 0 0.00 0 0.00

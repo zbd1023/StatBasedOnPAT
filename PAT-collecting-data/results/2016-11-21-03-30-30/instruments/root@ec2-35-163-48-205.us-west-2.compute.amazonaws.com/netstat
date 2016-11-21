@@ -1,0 +1,9 @@
+HostName TimeStamp  AM IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s %ifutil
+ip-172-31-32-5 1479699028  AM lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ip-172-31-32-5 1479699028  AM eth0 2.00 2.00 0.10 0.42 0.00 0.00 0.00 0.00
+HostName TimeStamp  AM IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s %ifutil
+ip-172-31-32-5 1479699029  AM lo 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ip-172-31-32-5 1479699029  AM eth0 37.00 45.00 2.02 12.63 0.00 0.00 0.00 0.00
+HostName TimeStamp  AM IFACE rxpck/s txpck/s rxkB/s txkB/s rxcmp/s txcmp/s rxmcst/s %ifutil
+ip-172-31-32-5 1479699030  AM lo 86.00 86.00 1944.75 1944.75 0.00 0.00 0.00 0.00
+ip-172-31-32-5 1479699030  AM eth0 48.00 40.00 2.44 11.72 0.00 0.00 0.00 0.00
